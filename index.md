@@ -1,9 +1,5 @@
 ## 个人简历
 
-You can use the [editor on GitHub](https://github.com/Yorkbaobao/Yorkbaobao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### 联系方式
 - 电话: (+1)480-469-2018
 - 邮箱: 958046078@qq.com
